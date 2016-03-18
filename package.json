@@ -1,0 +1,19 @@
+{
+  "name": "parseserver",
+  "version": "0.0.0",
+  "description": "Self Hosted Parse Server - KSE",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.13.4",
+    "parse-server": "~2.1.6",
+    "unix-socket": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mtjddnr",
+  "license": "BSD-2-Clause"
+}
+
+
